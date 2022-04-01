@@ -1,0 +1,11 @@
+.tShirt-container {
+    border: 5px solid lightskyblue;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+
+.tShirt-container img {
+    width: 100px;
+    height: 120px;
+}
